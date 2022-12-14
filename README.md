@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KellenBH
 - 👀 I’m interested in learning more about computers in general
-- 🌱 I’m currently learning about Chat GPT
-- 💞️ I’m looking to collaborate on ...
-- 
+- 🌱 I’m currently learning about Chat GPT 
 
 <!---
 KellenBH/KellenBH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
